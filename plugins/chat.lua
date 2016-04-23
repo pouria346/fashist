@@ -23,13 +23,13 @@ end
 if msg.text == "Zac" then
   return "Nagaeedim"
 end
-if msg.text == "Sbss" then
+if msg.text == "pouria346" then
   return "Is the best"
 end
-if msg.text == "Sbss" then
+if msg.text == "pouria346" then
   return "Is the best"
 end
-if msg.text == "SBSS" then
+if msg.text == "346" then
   return "Jnm?"
 end
 if msg.text == "bot" then
@@ -45,7 +45,7 @@ if msg.text == "bye" then
   return "Bye Bye"
 end
 if msg.text == "سلام" then
-  return "علیـک"
+  return "سلام عجقم"
 end
 if msg.text == "slm" then
   return "سلام"
@@ -59,10 +59,10 @@ end
 if msg.text == "خدافظ" then
   return "Bye Bye"
 end
-if msg.text == "Mr Ahs" then
+if msg.text == "pouria" then
   return "چیکار داری بابامو؟"
 end
-if msg.text == "@Mr_Ah_s" then
+if msg.text == "@pouria346" then
   return "چیکار داری بابامو؟"
 end
 end
